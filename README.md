@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david101-hunter)](https://github.com/anuraghazra/github-readme-stats)
+[![Manh Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=david101-hunter&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian)](https://github.com/david101-hunter)
+
+
 
 ## Hi there 👋
 
